@@ -1,5 +1,5 @@
 -- SQLite
-PRAGMA foreign_keys = ON
+PRAGMA foreign_keys = ON;
 DROP TABLE IF EXISTS "ranking";
 
 CREATE TABLE "ranking" (
